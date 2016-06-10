@@ -2,6 +2,15 @@
 
 Intro to Dependency Injection is an example used for User Groups and Meetups.
 
+## Prerequisite:
+- Visual Studio 2015
+
+## Technologies and frameworks used:
+- ASP.NET MVC
+- Unity 4.0.1
+- Ninject 3.2.2.0
+- Autofac 3.5.2
+
 ## Copyright
 
 Copyright © 2016 John Callaway and contributors
